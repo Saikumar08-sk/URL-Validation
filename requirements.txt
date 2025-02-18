@@ -1,0 +1,6 @@
+huggingface_hub==0.25.2
+beautifulsoup4
+requests
+pandas
+gradio
+sentence-transformers
